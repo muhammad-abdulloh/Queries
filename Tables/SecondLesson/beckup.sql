@@ -1,3 +1,3 @@
-BACKUP DATABASE LessonDb 
-TO DISK = 'G:\NajotTalim\sources\DataBases\BackUPFiles\LessonTest'
+BACKUP DATABASE Lesson 
+TO DISK = 'G:\NajotTalim\sources\DataBases\BackUPFiles\LessonMockData.bak'
 with DIFFERENTIAL
